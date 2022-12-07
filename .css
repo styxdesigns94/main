@@ -1,0 +1,11 @@
+@font-face {
+      font-family: 'besom'; !important
+      src: url('fonts/besom/besom.eot');
+      src: url('fonts/besom/besom.eot?#iefix') format('embedded-opentype'),
+           url('fonts/besom/besom.woff2') format('woff2'),
+           url('fonts/besom/besom.woff') format('woff'),
+           url('fonts/besom/besom.ttf') format('truetype'),
+           url('fonts/besom/besom.svg#besom_2regular') format('svg');
+      font-weight: normal;
+      font-style: normal;
+  }
